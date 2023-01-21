@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1671376849 source:c:\users\konra\desktop\18.12.2022\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+
+1671564377 source:c:\users\konra\desktop\zadania przyszly programista cz 8\ksiazka adresowa vector\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+
+1671564377 source:c:\users\konra\desktop\zadania przyszly programista cz 8\addresvector\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+
